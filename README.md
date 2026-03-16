@@ -28,7 +28,7 @@ Adjust the Price per Unit automatically so that the Profit value becomes 15,000 
 ## Image
 ![image alt](https://github.com/takbirahmedparag/Data-Analysis-Practice-9-60-Excel-Goal-Seek/blob/main/Screenshot%202026-03-16%20151205.png
 )
-![image alt](
+![image alt](https://github.com/takbirahmedparag/Data-Analysis-Practice-9-60-Excel-Goal-Seek/blob/main/Screenshot%202026-03-16%20151246.png
 )
 
 ## Challenges
