@@ -25,7 +25,10 @@ Adjust the Price per Unit automatically so that the Profit value becomes 15,000 
 3.	Applied Goal Seek from the What-If Analysis tool.
 4.	Set the Profit cell to 15,000.
 5.	Allowed Excel to change the Price cell automatically to reach the target value.
+![image alt](https://github.com/takbirahmedparag/Data-Analysis-Practice-9-60-Excel-Goal-Seek/blob/main/Screenshot%202026-03-16%20151205.png
+)
 
+https://github.com/takbirahmedparag/Data-Analysis-Practice-9-60-Excel-Goal-Seek/blob/main/Screenshot%202026-03-16%20151205.png
 ## Challenges
 •	Setting the correct set cell and changing cell
 •	Ensuring the correct profit formula
